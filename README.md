@@ -1,1 +1,2 @@
 # Titanic-survival-prediction
+The Titanic Survival Prediction project revolves around the analysis and prediction of passenger survival on the ill-fated RMS Titanic during its maiden voyage. This historical dataset provides a unique opportunity to apply data analysis and machine learning techniques to understand the factors that influenced passenger survival rates. The goal of this project is to build a predictive model that can accurately classify whether a given passenger survived or perished.
